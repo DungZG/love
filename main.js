@@ -1,11 +1,11 @@
 
 var settings = {
     particles: {
-      length:   2500, 
+      length:   550, 
       duration:   3, 
       velocity: 100, 
-      effect: 2.75, 
-      size:      50, 
+      effect: -0.75,
+      size:      30, 
     },
   };
   
